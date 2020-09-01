@@ -1,0 +1,11 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(../fonts/orange-juice.ttf);
+  }
+  
+  .robotsFont {
+    font-family: myFirstFont;
+    font-size: 100px;
+    color:cornsilk;
+    padding: 10pt;
+  }

@@ -1,0 +1,25 @@
+.search {
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    padding: 10px;
+    width: 150px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    width: 30%;
+    border-radius: 3px;
+    border: 1px solid transparent;
+    border-top: none;
+    border-bottom: 1px solid #DDD;
+   -webkit-box-shadow: 0 8px 6px -6px black;
+	 -moz-box-shadow: 0 8px 6px -6px black;
+    box-shadow: 0 8px 6px -6px black;
+    color: rgb(24, 33, 49);
+    font-family: 'Bigelow Rules';
+    font-size: 40px;
+    
+    /*
+    box-shadow: inset 0 1px 2px rgba(0,0,0,.39), 0 -1px 1px #FFF, 0 1px 0 #FFF;
+  */
+  }
+  
