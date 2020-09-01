@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/monsters-react/static/css/main.48663f45.chunk.css",
+    "main.js": "/monsters-react/static/js/main.1e5ad9e2.chunk.js",
+    "main.js.map": "/monsters-react/static/js/main.1e5ad9e2.chunk.js.map",
+    "runtime-main.js": "/monsters-react/static/js/runtime-main.5561a303.js",
+    "runtime-main.js.map": "/monsters-react/static/js/runtime-main.5561a303.js.map",
+    "static/js/2.aea4af21.chunk.js": "/monsters-react/static/js/2.aea4af21.chunk.js",
+    "static/js/2.aea4af21.chunk.js.map": "/monsters-react/static/js/2.aea4af21.chunk.js.map",
+    "index.html": "/monsters-react/index.html",
+    "precache-manifest.13211366643b7cff7d9af3546bb45d8e.js": "/monsters-react/precache-manifest.13211366643b7cff7d9af3546bb45d8e.js",
+    "service-worker.js": "/monsters-react/service-worker.js",
+    "static/css/main.48663f45.chunk.css.map": "/monsters-react/static/css/main.48663f45.chunk.css.map",
+    "static/js/2.aea4af21.chunk.js.LICENSE.txt": "/monsters-react/static/js/2.aea4af21.chunk.js.LICENSE.txt",
+    "static/media/title-style.css": "/monsters-react/static/media/orange-juice.e96f186f.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5561a303.js",
+    "static/js/2.aea4af21.chunk.js",
+    "static/css/main.48663f45.chunk.css",
+    "static/js/main.1e5ad9e2.chunk.js"
+  ]
+}
